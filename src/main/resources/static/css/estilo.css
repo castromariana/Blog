@@ -1,0 +1,22 @@
+
+
+#sobremi{
+    text-align: center;
+    font-size: 17px;
+    font-family: serif;
+}
+label, input {
+    display: block;
+}
+
+label {
+    margin-bottom: 20px;
+}
+
+#titulo{
+    font-family: serif;
+    font-size: 17px;
+}
+#by{
+    font-family: monospace;
+}
